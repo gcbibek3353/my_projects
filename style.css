@@ -32,9 +32,7 @@ body{
     background: black;
     color: white;
 }
-img{
-    cursor: pointer;
-}
+
 img:hover{
     transform: scale(0.8);
 }
